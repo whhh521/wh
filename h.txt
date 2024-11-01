@@ -1485,8 +1485,6 @@ NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/
 NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-
-
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$LR•IPV6『线路2』
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$LR•IPV6『线路4』
 CHC动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$LR•IPV6『线路5』
@@ -1625,6 +1623,7 @@ hy影视,#genre#
 电影_战争,https://live.metshop.top/huya/21059592
 电影_喜剧,https://live.metshop.top/huya/11352877
 电影_国产,https://live.metshop.top/huya/11352973
+电影_英叔1,https://live.metshop.top/huya/396734
 电影_李连杰,https://live.metshop.top/huya/11342390
 电影_甄子丹,https://live.metshop.top/huya/11352935
 电影_洪金宝,https://live.metshop.top/huya/11279251
@@ -1682,6 +1681,7 @@ hy影视,#genre#
 电影-烧脑悬疑,https://live.metshop.top/huya/11352880
 电影-猫和老鼠,https://live.metshop.top/huya/11352879
 
+
 //huya2
 电影_小鬼头,http://cfss.cc/cdn/hy/11352963.flv
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
@@ -1713,6 +1713,7 @@ hy影视,#genre#
 电影_战争,http://cfss.cc/cdn/hy/21059592.flv
 电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
 电影_国产,http://cfss.cc/cdn/hy/11352973.flv
+电影_英叔1,http://cfss.cc/cdn/hy/396734.flv
 电影_李连杰,http://cfss.cc/cdn/hy/11342390.flv
 电影_甄子丹,http://cfss.cc/cdn/hy/11352935.flv
 电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
@@ -1770,6 +1771,7 @@ hy影视,#genre#
 电影-烧脑悬疑,http://cfss.cc/cdn/hy/11352880.flv
 电影-猫和老鼠,http://cfss.cc/cdn/hy/11352879.flv
 
+
 //huya3
 电影_小鬼头,http://111.67.193.2:35455/huya/11352963
 电影_星爷,http://111.67.193.2:35455/huya/11342412
@@ -1801,6 +1803,7 @@ hy影视,#genre#
 电影_战争,http://111.67.193.2:35455/huya/21059592
 电影_喜剧,http://111.67.193.2:35455/huya/11352877
 电影_国产,http://111.67.193.2:35455/huya/11352973
+电影_英叔1,http://111.67.193.2:35455/huya/396734
 电影_李连杰,http://111.67.193.2:35455/huya/11342390
 电影_甄子丹,http://111.67.193.2:35455/huya/11352935
 电影_洪金宝,http://111.67.193.2:35455/huya/11279251
@@ -1889,6 +1892,7 @@ hy影视,#genre#
 电影_战争,http://159.75.85.63:35455/huya/21059592
 电影_喜剧,http://159.75.85.63:35455/huya/11352877
 电影_国产,http://159.75.85.63:35455/huya/11352973
+电影_英叔1,http://159.75.85.63:35455/huya/396734
 电影_李连杰,http://159.75.85.63:35455/huya/11342390
 电影_甄子丹,http://159.75.85.63:35455/huya/11352935
 电影_洪金宝,http://159.75.85.63:35455/huya/11279251
@@ -1973,6 +1977,12 @@ hy影视,#genre#
 
 
 
+
+
+
+
+
+
 yy影视,#genre#
 
 //yy1
@@ -2016,6 +2026,8 @@ yy影视,#genre#
 林正英1,https://live.metshop.top/yy/1354932444
 林正英2,https://live.metshop.top/yy/1382841203
 林正英3,https://live.metshop.top/yy/1351505899
+林正英4,https://live.metshop.top/yy/1353685311
+林正英电影,https://live.metshop.top/yy/34229877
 成  龙,https://live.metshop.top/yy/1354888751
 成  龙1,https://live.metshop.top/yy/34460526
 李连杰,https://live.metshop.top/yy/74613175
@@ -2066,7 +2078,9 @@ yy影视,#genre#
 林正英,http://cfss.cc/cdn/yy/1453996620.flv 
 林正英1,http://cfss.cc/cdn/yy/1354932444.flv 
 林正英2,http://cfss.cc/cdn/yy/1382841203.flv 
-林正英3,http://cfss.cc/cdn/yy/1351505899.flv 
+林正英3,http://cfss.cc/cdn/yy/1351505899.flv
+林正英4,http://cfss.cc/cdn/yy/1353685311.flv
+林正英电影,http://cfss.cc/cdn/yy/34229877.flv 
 成  龙,http://cfss.cc/cdn/yy/1354888751.flv 
 成  龙1,http://cfss.cc/cdn/yy/34460526.flv 
 李连杰,http://cfss.cc/cdn/yy/74613175.flv 
@@ -2118,6 +2132,8 @@ yy影视,#genre#
 林正英1,http://111.67.193.2:35455/yy/1354932444
 林正英2,http://111.67.193.2:35455/yy/1382841203
 林正英3,http://111.67.193.2:35455/yy/1351505899
+林正英4,http://111.67.193.2:35455/yy/1353685311
+林正英电影,http://111.67.193.2:35455/yy/34229877
 成  龙,http://111.67.193.2:35455/yy/1354888751
 成  龙1,http://111.67.193.2:35455/yy/34460526
 李连杰,http://111.67.193.2:35455/yy/74613175
@@ -2127,6 +2143,8 @@ yy影视,#genre#
 刘德华,http://111.67.193.2:35455/yy/1382745111
 刘德华1,http://111.67.193.2:35455/yy/1354888726
 张国荣,http://111.67.193.2:35455/yy/1354930961
+
+
 
 //yy4
 电影台,http://159.75.85.63:35455/yy/1354658049
@@ -2169,6 +2187,8 @@ yy影视,#genre#
 林正英1,http://159.75.85.63:35455/yy/1354932444
 林正英2,http://159.75.85.63:35455/yy/1382841203
 林正英3,http://159.75.85.63:35455/yy/1351505899
+林正英4,http://159.75.85.63:35455/yy/1353685311
+林正英电影,http://159.75.85.63:35455/yy/34229877
 成  龙,http://159.75.85.63:35455/yy/1354888751
 成  龙1,http://159.75.85.63:35455/yy/34460526
 李连杰,http://159.75.85.63:35455/yy/74613175
@@ -2178,6 +2198,7 @@ yy影视,#genre#
 刘德华,http://159.75.85.63:35455/yy/1382745111
 刘德华1,http://159.75.85.63:35455/yy/1354888726
 张国荣,http://159.75.85.63:35455/yy/1354930961
+
 
 
 dy影视,#genre#
@@ -2372,7 +2393,9 @@ dy影视,#genre#
 李连杰轮播,http://zby.xjqxz.top/lljdy/live.m3u8
 成龙轮播,http://zby.xjqxz.top/cldy/live.m3u8
 好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
+经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
 东方影视,http://222.70.23.103:6666/udp/239.45.3.237:5140
+
 
 
 小品,#genre#
@@ -2396,6 +2419,7 @@ dy影视,#genre#
 
 白噪音1,http://zblu.exvugx.cn/bilibili/30788503id
 白噪音2,http://zblu.exvugx.cn/bilibili/1870883645id
+白噪音3,http://111.67.193.2:35455/huya/1680275221241811
 轻音乐,http://61.240.206.3/live-bvc/276764/live_2565439_9900945/index.m3u8
 宫崎骏,http://221.15.71.3/live-bvc/664465/live_8452447_9815264/index.m3u8
 动漫音乐,http://zblu.exvugx.cn/bilibili/2225203id
@@ -2405,13 +2429,18 @@ MV轮播,http://zblu.exvugx.cn/bilibili/1773507853id
 周杰伦音乐,http://zblu.exvugx.cn/bilibili/27660328id
 周杰伦无损音乐,http://61.240.206.17/live-bvc/664465/live_642804459_23717540_2500/index.m3u8
 流行音乐,http://zblu.exvugx.cn/bilibili/31224575id
-古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+好音质点歌台,http://111.67.193.2:35455/huya/15590571
+经典点歌台,http://111.67.193.2:35455/huya/20616876
+聆听点歌台,http://111.67.193.2:35455/huya/16802752	
+阿七点歌台,https://www.goodiptv.club/douyu/3186217
+熊猫点歌台,https://www.goodiptv.club/douyu/3870925
+音乐台长,https://www.goodiptv.club/douyu/9629943
 怀旧经典,http://zblu.exvugx.cn/bilibili/30281885id
 老歌经典,http://zblu.exvugx.cn/bilibili/25182760id
 8090经典,http://zblu.exvugx.cn/bilibili/1769479946id
 怀旧音乐,http://zblu.exvugx.cn/bilibili/31951727id
 随机音乐,http://zblu.exvugx.cn/bilibili/26521528id
-音乐台长,https://www.goodiptv.club/douyu/9629943
+古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
 金典歌曲轮播,http://157.148.134.6/live-bvc/682702/live_1749710516_4875726_2500/index.m3u8
 音乐现场,http://zblu.exvugx.cn/rtp/239.3.1.70:4120
 山歌台高清,http://1b6467f415.iok.la:9931/tsfile/live/1005_1.m3u8
