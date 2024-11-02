@@ -2419,12 +2419,15 @@ dy影视,#genre#
 
 白噪音1,http://zblu.exvugx.cn/bilibili/30788503id
 白噪音2,http://zblu.exvugx.cn/bilibili/1870883645id
-白噪音3,http://111.67.193.2:35455/huya/1680275221241811
+白噪音3,http://111.67.193.2:35455/huya/21241811
 轻音乐,http://61.240.206.3/live-bvc/276764/live_2565439_9900945/index.m3u8
 宫崎骏,http://221.15.71.3/live-bvc/664465/live_8452447_9815264/index.m3u8
 动漫音乐,http://zblu.exvugx.cn/bilibili/2225203id
 MV轮播,http://zblu.exvugx.cn/bilibili/1773507853id
 演唱会,http://zblu.exvugx.cn/douyu/11880223
+电台粤播1,http://www.52sw.top:678/play/douyin.php?id=746822069525
+电台粤播2,http://www.52sw.top:678/play/douyin.php?id=610441607378
+电台粤播3,http://www.52sw.top:678/play/douyin.php?id=766255078143
 华语金曲500,http://ls.qingting.fm/live/3412131.m3u8
 周杰伦音乐,http://zblu.exvugx.cn/bilibili/27660328id
 周杰伦无损音乐,http://61.240.206.17/live-bvc/664465/live_642804459_23717540_2500/index.m3u8
@@ -2446,6 +2449,11 @@ MV轮播,http://zblu.exvugx.cn/bilibili/1773507853id
 山歌台高清,http://1b6467f415.iok.la:9931/tsfile/live/1005_1.m3u8
 mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
 音乐现场1,http://111.67.193.2.35455/rtp/239.3.1.70:4120
+抖音经典老歌,http://www.52sw.top:678/play/douyin.php?id=95476912021
+抖音爱听音乐,http://www.52sw.top:678/play/douyin.php?id=639730350550
+抖音24时音乐,http://www.52sw.top:678/play/douyin.php?id=24913320512
+抖音聆听经典,http://www.52sw.top:678/play/douyin.php?id=747428820686
+抖音怀旧经典,http://www.52sw.top:678/play/douyin.php?id=151120163983
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://182.138.185.96:6666/udp/239.93.0.198:9044
 
