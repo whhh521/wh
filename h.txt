@@ -2496,23 +2496,17 @@ dy影视,#genre#
 
 
 其他,#genre#
-
-1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905国内电影,http://ygbh666.cn/190.php?id=1905a
-1905国外电影,http://ygbh666.cn/190.php?id=1905b
 1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
 1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
-重温经典频道,http://mtw.so/5NPX0U
-重温经典频道1,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-经典影院频道,http://live.dxms.top:80/dwy/jdyst.php
-经典剧场频道,http://live.dxms.top:80/dwy/jdjc.php
-经典影视,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-经典电影,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
+重温经典,http://mtw.so/5NPX0U
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+星光华剧台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+经典电影台,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
+经典乡村台,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
+黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://43.132.147.111:65/lbjm.php?id=4246519
-神乐影院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-星影,http://159.75.85.63:35455/udp/225.1.8.254:4120
 林正英轮播,http://mtw.so/5FCWRo	
 周星驰轮播,http://zby.xjqxz.top/live12/live.m3u8
 李连杰轮播,http://zby.xjqxz.top/lljdy/live.m3u8
@@ -2520,6 +2514,7 @@ dy影视,#genre#
 好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
 经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
 东方影视,http://222.70.23.103:6666/udp/239.45.3.237:5140
+
 
 
 
