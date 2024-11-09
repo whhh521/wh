@@ -21,6 +21,14 @@
      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
      "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
+  {
+    "name": "春盈",
+    "type": 0,
+    "url": "http://yydf.540734621.xyz/wx/zb/chunyingzhibo.txt",
+    "playerType": 1,
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+   },
    {
       "name": "netimed",
       "type": 0,
