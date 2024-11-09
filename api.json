@@ -12,7 +12,16 @@
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    }],
+    },
+   {
+     "name": "自己",
+     "type": 0,
+     "url": "./h.txt",
+     "playerType": 1,
+     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+     "logo": "https://epg.112114.xyz/logo/{name}.png"
+  }	  
+  ],
 "sites":[
 
 {"key":"豆瓣","name":"豆瓣推荐┃软件永久免费，请勿购买传播！","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
