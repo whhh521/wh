@@ -33,7 +33,16 @@
 		"api":"./lib/drpy_libs/drpy2.min.js",
 		"ext":"./lib/瓜子.js" 
 	},
-  
+  {
+		"key": "厂长资源",
+		"name": "《工厂资源》",
+		"type": 3,
+		"api": "./lib/drpy2.min.js",
+		"searchable": 1,"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "./lib/js/厂长.js"
+	},
     {
     "key": "guoguo",
       "name": "《锅果4k源》",
