@@ -1,5 +1,16 @@
 {
 "sites": [
+    {
+            "key": "hipy_js_直播转点播[合]",
+            "name": "直播转点播[合](drpy_t3)",
+            "type": 3,
+            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://47.108.190.141/hipy/drpy_js/直播转点播[合].js?type=url&params=http://47.108.190.141/hipy/json/live2cms.json"
+    },
     {"key":"豆瓣","name":"豆瓣推荐","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
     {"key":"瓜子","name":"《瓜子秒播》","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/瓜子.js" },
     {"key": "hipy_js_360影视[官]","name": "《36零源》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/360影视[官].js"},
