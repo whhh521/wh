@@ -5,7 +5,7 @@
 "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "lives": [
     {
-      "name": "天微live",
+      "name": "live",
       "type": 0,
       "url": "./lib/自用勿传",
       "ua": "okhttp/3.15",
@@ -20,7 +20,47 @@
      "playerType": 1,
      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
      "logo": "https://epg.112114.xyz/logo/{name}.png"
-  }	  
+  },
+   {
+      "name": "netimed",
+      "type": 0,
+      "url": "https://s.netimed.cn/diyp",
+      "playerType": 1
+     },
+    {
+      "name": "码点",
+      "type": 0,
+      "url": "http://120.79.4.185/new/mdlive.txt",
+      "playerType": 1
+     },
+    {
+      "name": "zbdsipv4",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+     },
+    {
+      "name": "zbdsipv6",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv6.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "wwbipv6",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
+      "playerType": 1
+    },
+    {
+      "name": "fanmingIPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    }	  
   ],
 "sites":[
 
