@@ -1,4 +1,70 @@
 {
+"sites": [
+    {
+      "key": "豆瓣主页",
+      "name": "公众号[挺好分享]",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+   {
+      "key": "drpy_js_量子资源",
+      "name": "📛TH┃量子影视",
+      "type": 3,
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/量子资源.js"
+    },
+    {
+      "key": "索尼",
+      "name": "📛TH┃索尼影视",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod"
+    },
+  {
+      "key": "alllive",
+      "name": "📽️一直播┃LIVE",
+      "type": 3,
+      "api": "csp_Alllive",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+   {
+      "key": "Czspp",
+      "name": "🕺TH┃厂长影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzy88.com/"
+    },
+  {
+      "key": "厂长",
+      "name": "📔TH┃厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+  {
+      "key": "文采",
+      "name": "💮TH┃文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    }
+],
+
 //"wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
