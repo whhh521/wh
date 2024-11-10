@@ -2,9 +2,9 @@
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "logo": "https://qixing.myhkw.com/tw.jpg",
 //警告
-"warningText": "资源来自网络[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+"warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "lives": [
-    {
+   {
       "name": "live",
       "type": 0,
       "url": "./lib/自用勿传",
@@ -68,11 +68,10 @@
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
-    }	  
-  ],
+    }],
 "sites":[
 
-{"key":"豆瓣","name":"豆瓣推荐","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
+{"key":"豆瓣","name":"豆瓣推荐┃软件永久免费，请勿购买传播！","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
 
 {"key":"配置中心","name":"┃网盘设置配置┃","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "./lib/dm.jar"},
 
@@ -597,7 +596,7 @@
         {"name":"-剖云-","type":0,"url":"https://www.kkvip2022.com/vip/jiexi1/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         {"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
-        {
+	{
             "name": "线路1",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
