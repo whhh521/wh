@@ -4,7 +4,7 @@
 //警告
 "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "lives": [
-   {
+    {
       "name": "live",
       "type": 0,
       "url": "./lib/自用勿传",
@@ -13,7 +13,7 @@
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
-   {
+    {
      "name": "自己",
      "type": 0,
      "url": "./h.txt",
@@ -68,10 +68,11 @@
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
-    }],
+    }
+  ],
 "sites":[
 
-{"key":"豆瓣","name":"豆瓣推荐┃软件永久免费，请勿购买传播！","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
+{"key":"豆瓣","name":"豆瓣推荐！","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
 
 {"key":"配置中心","name":"┃网盘设置配置┃","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "./lib/dm.jar"},
 
@@ -544,8 +545,7 @@
 {"key":"学习园地","name":"《教育📚课程》","type":3,"api":"csp_Bili","jar":"https://7337.kstore.space/jar/qxyc.jar","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/Blixt.json"},
        
 {"key":"学外语","name":"《教育📚外语》","type":3,"api":"csp_Bili","jar":"https://7337.kstore.space/jar/qxyc.jar","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/waiyu.json"},
-        
-{"key": "ext_live_protocol","name": "公众号：天微科技","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
+
        
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0}],
 
@@ -583,7 +583,7 @@
  {"name":"天微解析","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
 
                {
-                "name": "天微解析2",
+                "name": "解析2",
             "type": 0,
             "url": "https://www.pangujiexi.com/pangu/?url="
         },
@@ -596,7 +596,7 @@
         {"name":"-剖云-","type":0,"url":"https://www.kkvip2022.com/vip/jiexi1/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         {"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
-	{
+        {
             "name": "线路1",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
@@ -647,7 +647,7 @@
             "name": "线路13",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
-        }  
+        } 
     ],
     "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
     "rules":[
