@@ -36,9 +36,15 @@
       "playerType": 1
      },
     {
-      "name": "Guo",
+      "name": "kilvn每天自更",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+      "url": "https://live.kilvn.com/iptv.m3u",
+      "playerType": 1
+     },
+    {
+      "name": "看电视",
+      "type": 0,
+      "url": "http://8.138.7.223/11.php",
       "playerType": 1
      },
     {
@@ -204,8 +210,6 @@
 
 {"key":"茶狐杯","name":"《茶杯🔹狐源》","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/茶狐杯.json"},
 
-{"key": "TVB云播_js","name": "《云播🔹在线》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/TVB云播.js"},
-
 {"key":"子子影视","name":"《子子🔹天微》","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/子子.json"},
 
 {"key":"csp_xBPQ_奇优","name":"《奇优🔹秒播》","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/qiyou.json"},
@@ -216,20 +220,15 @@
 
 {"key":"木耳","name":"《木耳🔹采集》","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },
 
-{"key": "csp_Mp4Mov","name": "《磁力🔹在线》","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_New6v","name": "《磁力🔹新六》","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
-{"key":"csp_SeedHub","name":"《磁力🔹狐播》","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_KubaCL","name":"《磁力🔹酷吧》","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MeijuMi","name":"《磁力🔹美剧》","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xunlei8","name":"《磁力🔹迅雷》","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key": "hipy_js_采集之王","name": "《天微🔹采集》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"order_num": 0,"ext": "./lib/采集之王[合].js?type=url&params=../lib/采集静态.json$1"},
 
 {"key":"csp_星辰","name":"《星辰🔹秒播》","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/xcys.json"},
 {"key":"光棍影视","name":"《光棍🔹秒播》","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/guangun.json"},
 	
-
+{"key": "可可影视[优]_js","name": "《可可🔸影视》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/可可影视[优].js"},	
+{"key": "js_电影先生","name": "《电影🔸先生》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/电影先生.js"},
+	
 {"key": "bilfun(自动)_js","name": "《蓝光🔸在线》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/bilfun(自动).js"},
 
 {"key": "爱优影视[自动]_js","name": "《友爱🔸自动》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/爱优影视[自动].js"},
@@ -240,8 +239,6 @@
 
 {"key": "河狸影视[V2]_js","name": "《狐力🔸在线》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/河狸影视[V2].js"},
 
-{"key": "可可影视[优]_js","name": "《可可🔸影视》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/可可影视[优].js"},
-
 {"key": "飘花影院_js","name": "《雪花🔸秒播》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/飘花影院.js"},
 
 {"key": "魔方影视_js","name": "《凤凰🔸影院》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/魔方影视.js"},
@@ -251,8 +248,6 @@
 {"key": "热播之家_js","name": "《热播🔸之家》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/热播之家.js"},
 
 {"key": "人人影视_js","name": "《从从🔸在线》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/人人影视.js"},
-
-{"key": "js_电影先生","name": "《电影🔸先生》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/电影先生.js"},				
 
 {"key": "旋风视频_js","name": "《龙卷🔸风线》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/旋风视频.js"},
 
@@ -280,22 +275,6 @@
 
  { "key": "大师兄","name":"《师兄🔸影视》", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
 
-{"key": "js_星芽短剧","name": "《天微🎦短剧》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星芽短剧.js"},    
-{"key": "csp_XYQHiker_爱你短剧","name":"《爱上🎦短剧》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱你短剧.json"},
-{"key": "csp_XYQHiker_河马短剧","name":"《河马🎦短剧》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/河马短剧.json"},
-{"key": "csp_XYQHiker_短剧屋","name":"《小屋🎦短剧》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/短剧屋.json"},
-{"key": "js_蓝莓短剧","name": "《蓝莓🎦短剧》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蓝莓短剧.js"},
-{"key": "你好帅","name": "《好帅🎦短剧》","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组": "<div class=\"sort-item\"&&</div>"} },
-
-{"key":"310js","name":"《三一⚽直播》","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"88js","name":"《八八⚽看球》","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"Jrsjs","name":"《jrss⚽直播》","type": 3,"api":"./lib/drpy2.min.js","ext":"./lib/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key": "hipy_js_360吧[球]","name": "《360⚽球吧》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"playerType":"1","quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/360吧[球].js"},
-
-{"key": "926tv[球]_js","name": "《926⚽球吧》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/926tv[球].js"},
-
-
-
 {"key":"斗鱼js","name":"《斗鱼🐟直播》","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
 
 {"key":"虎牙直播","name":"《虎牙🐯直播》","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/huyazhibo.js"},
@@ -305,14 +284,12 @@
 
 {"key":"bili","name":"《哔哩🅱合集》","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "style": {"type": "rect","ratio": 1.433},"ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt","json": "./lib/哔哩合集.txt"},"timeout":20},
 
-
 {"key": "DJ呦呦音乐网","name":"《呦呦🎤音乐》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/DJyyyyw.json"},
 
 {"key":"酷奇","name":"《酷奇🎤MTV》","type": 3,"api":"./lib/drpy2.min.js","ext":"./lib/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
 
 {"key":"bili_演唱会","name":"《看演🎤唱会》","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "style": {"type": "rect","ratio": 1.433},"ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt","json": "./lib/演唱会.json"},"timeout":20},
 
-{"key": "js_a8音乐","name": "《恩吧🎤音乐》","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/a8yy.js"},
 
 {"key":"博看听书","name":"《听书📚博看》","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/博看听书.js"},
 
