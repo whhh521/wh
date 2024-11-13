@@ -1,6 +1,6 @@
 {"spider": "./lib/tvkj.jar",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
-"logo": "https://qixing.myhkw.com/tw.jpg",
+//"logo": "https://qixing.myhkw.com/tw.jpg",
 //警告
 "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
  "lives": [
@@ -82,16 +82,16 @@
 
 {"key": "好趣网","name": "《好趣 | 直播》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "./lib/好趣网.js"},
 	
-	{	
-		"key": "lf_live10_min", 
-		"name": "央视 | 直播",
+   {	
+	"key": "lf_live10_min", 
+	"name": "央视 | 直播",
         "type": 3,
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
         "changeable": 1,
-        "api": "./alib/lf_live10_min-output.js",
-        "ext": "./alib/lf_live.json"
+        "api": "./lf_live10_min-output.js",
+        "ext": "./lf_live.json"
     },
     {
 		"key": "cctv",
@@ -154,7 +154,7 @@
         "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
     },
 
-    {
+    /*{
         "key": "天天弹幕版",
         "name": "《天天🔹弹幕》",
         "type": 3,
@@ -166,7 +166,7 @@
         "danmu": true
         },
         "timeout": 10
-    },
+    },*/
     {
         "key": "nangua",
         "name": "《南瓜🔹秒播》",
@@ -174,14 +174,16 @@
         "playerType": "2",
         "api": "http://js.xn--z7x900a.com/js/ng_open.js"
     },
-
-{"key":"南瓜弹幕版","name":"《南瓜🔹弹幕》","type": 3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
+	
+//{"key":"南瓜弹幕版","name":"《南瓜🔹弹幕》","type": 3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 
 {"key":"茶狐杯","name":"《茶杯🔹狐源》","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/js/茶杯狐4.json"},
 
 {"key":"瓜子","name":"《瓜子🔹秒播》","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/瓜子.js"},
 
-{"key":"文才","name":"《文采🔹秒播》","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
+{"key":"文才","name":"《文采🔹秒播》","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,
+	/* "ext": {"danmu": true},*/ 
+	"timeout": 10},
 
 { "key": "czys", "name": "厂长┃影视", "type": 3, "api": "csp_Czsapp",  "searchable": 1,  "quickSearch": 1, "filterable": 1,  "playerType": 2,  "ext": "https://czzy.top/",  "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68" },
 
@@ -198,7 +200,7 @@
         "filterable": 1
     },
     
-    {
+   /* {
         "key": "金牌弹幕",
         "name": "🥇金牌🔹弹幕",
         "type": 3,
@@ -210,7 +212,7 @@
         "ext": {
         "danmu": true
         }
-    },
+    },*/
     {
         "key": "csp_XBPQ_茶杯狐",
         "name": "🍸️茶杯🔹聚合",
@@ -239,10 +241,8 @@
         "api": "csp_Nmys",
         "jar": "./alib/xiaosaspider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
         "searchable": 1,
-        "quickSearch": 1,      
-        "ext": {
-        "danmu": true
-        },
+        "quickSearch": 1,  
+//	"ext": { "danmu": true },
         "filterable": 1
     },
     {
