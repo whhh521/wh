@@ -236,7 +236,7 @@
         "ext": "./alib/茶杯.json",
         "jar": "./alib/wangpanfine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
     },
- /*
+ 
     {
         "key": "瓜子",
         "name": "❤️瓜子2🔹秒播",
@@ -302,6 +302,7 @@
 		"api": "csp_SaoHuo",
 		"jar": "./alib/PandaQ241107.txt;md5;dabbadca4e437d296b69c3f7ebfc72f4"
     },
+/*	
     {
 		"key": "csp_AppDaMi",
 		"name": "🍚大米🔹影视",
