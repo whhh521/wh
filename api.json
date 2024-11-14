@@ -317,21 +317,6 @@
 		"filterable": 1,
 		"ext": "https://app-v1.ecoliving168.com/"
     },
-/*
-    {
-		"key": "csp_paopao",
-		"name": "🥬菠菜🔹秒播",
-		"jar":"./alib/08015.jar",
-		"type": 3,
-		"searchable": 1,
-		"quickSearch":1,
-		"changeable": 1,
-		"api": "csp_Pptv",
-		"playerType": 2,
-		"filterable": 1,
-		"ext": "https://yigeg.pro"
-    },
-*/
     {
 		"key": " 百姓 ",
 		"name": "👨‍🌾农民🔸影院",
@@ -359,32 +344,6 @@
 		"filterable": 1,
 		"ext": "https://www.wwgz.cn/"
     },
-
-    {
-		"key": "csp_SP360",
-		"name": "💘360🔹秒播",
-		"type": 3,
-		"api": "csp_SP360",
-		"jar": "./alib/nanfengspider.jar",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"changeable": 1
-    },
-/*
-    {
-		"key": "csp_Tvyb",
-		"name": "☁️TVB | 云播",
-		"type": 3,
-		"api": "csp_Tvyb",
-		"jar": "./alib/nanfengspider.jar",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://www.tvyun01.com/"
-    },
-	*/
 /*
     {
 		"key": "csp_Nkdy",
