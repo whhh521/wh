@@ -236,7 +236,8 @@
         "ext": "./alib/茶杯.json",
         "jar": "./alib/wangpanfine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
     },
- /* {
+ /*
+    {
         "key": "瓜子",
         "name": "❤️瓜子2🔹秒播",
         "type": 3,
