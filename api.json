@@ -211,7 +211,7 @@
         "quickSearch": 1,
         "filterable": 1
     },
-    
+ /*   
     {
         "key": "金牌弹幕",
         "name": "🥇金牌🔹弹幕",
@@ -225,6 +225,7 @@
         "danmu": true
         }
     },
+*/
     {
         "key": "csp_XBPQ_茶杯狐",
         "name": "🍸️茶杯🔹聚合",
@@ -236,7 +237,7 @@
         "ext": "./alib/茶杯.json",
         "jar": "./alib/wangpanfine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
     },
- 
+ /*
     {
         "key": "瓜子",
         "name": "❤️瓜子2🔹秒播",
@@ -247,6 +248,7 @@
         "changeable": 0,
         "ext": "./alib/guazi.js"
     },
+ */
     {
         "key": "糯米弹幕",
         "name": "🍓糯米🔹秒播",
@@ -301,8 +303,7 @@
 		"changeable": 0,
 		"api": "csp_SaoHuo",
 		"jar": "./alib/PandaQ241107.txt;md5;dabbadca4e437d296b69c3f7ebfc72f4"
-    },
-/*	
+    },	
     {
 		"key": "csp_AppDaMi",
 		"name": "🍚大米🔹影视",
@@ -376,6 +377,7 @@
 		"filterable": 1,
 		"ext": "http://www.tvyun01.com/"
     },
+/*
     {
 		"key": "csp_Nkdy",
 		"name": "🏔️耐看┃影视",
