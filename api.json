@@ -303,7 +303,8 @@
 		"changeable": 0,
 		"api": "csp_SaoHuo",
 		"jar": "./alib/PandaQ241107.txt;md5;dabbadca4e437d296b69c3f7ebfc72f4"
-    },	
+    },
+/*	
     {
 		"key": "csp_AppDaMi",
 		"name": "🍚大米🔹影视",
@@ -316,6 +317,7 @@
 		"filterable": 1,
 		"ext": "https://app-v1.ecoliving168.com/"
     },
+*/
     {
 		"key": "csp_paopao",
 		"name": "🥬菠菜🔹秒播",
