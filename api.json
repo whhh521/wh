@@ -108,7 +108,7 @@
         "name": "📽一直播┃LIVE",
         "type": 3,
         "api": "csp_Alllive",
-        "jar": "./alib/fantaiyingspider.jar",
+//        "jar": "./alib/fantaiyingspider.jar",
         "playerType": 2,
         "searchable": 0,
         "quickSearch": 0,
@@ -186,7 +186,15 @@
 { "key": "czys", "name": "厂长┃影视", "type": 3, "api": "csp_Czsapp",  "searchable": 1,  "quickSearch": 1, "filterable": 1,  "playerType": 2,  "ext": "https://czzy.top/",  "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68" },
 
 {"key": "木耳", "name": "🪴木耳┃秒播", "type": 1, "api": "https://json02.heimuer.xyz/api.php/provide/vod","searchable": 1, "filterable": 1, "changeable": 1, "timeout": 20, "categories": [ "剧情片", "动作片", "冒险片", "喜剧片", "奇幻片","恐怖片", "悬疑片","惊悚片", "灾难片", "爱情片", "犯罪片", "科幻片", "歌舞片", "战争片", "经典片", "动画电影", "网络电影", "其他片", "国产剧", "港剧", "韩剧", "日剧", "泰剧", "台剧", "欧美剧", "新马剧", "其他剧", "国产综艺", "港台综艺", "韩国综艺","日本综艺", "欧美综艺", "新马泰综艺", "其他综艺", "古装短剧", "虐恋短剧", "逆袭短剧", "神豪短剧", "重生短剧", "复仇短剧", "穿越短剧", "甜宠短剧", "强者短剧", "欧美动漫", "日本动漫", "韩国动漫", "国产动漫", "港台动漫"],"header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}},
-
+	{
+        "key": "比特",
+        "name": "🍄比特🔹秒播",
+        "type": 3,
+        "api": "csp_Bttwo",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1
+        },
 /*	{
         "key": "瓜子影视",
         "name": "🍉瓜子360秒播",
@@ -242,15 +250,7 @@
         "quickSearch": 1,  
         "filterable": 1
     },
-    {
-        "key": "比特",
-        "name": "🍄比特🔹秒播",
-        "type": 3,
-        "api": "csp_Bttwo",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-    },
+    
     {
         "key": "热播",
         "name": "📺热播🔹多线",
@@ -527,7 +527,7 @@
 		"order_num": 0,
 		"ext": "./lib/js/思古影视[V2].js"
    },
-{"key":"全网┃影视","name":"全网┃影视","type":3,"api":"csp_Quanwk","jar": "./alib/ougeou.jar","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"全网┃影视","name":"全网┃影视","type":3,"api":"csp_Quanwk","jar": "./alib/ougeou.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQHiker_农民影视","name":"《农民🔹影视》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/农民影视.json"},
 
 {"key":"小苹果弹幕版","name":"《苹果🔹秒播》","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
@@ -580,11 +580,6 @@
 {"key":"bili","name":"《哔哩🅱合集》","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "style": {"type": "rect","ratio": 1.433},"ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt","json": "./lib/哔哩合集.txt"},"timeout":20},
 {"key":"bili_演唱会","name":"《看演🎤唱会》","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "style": {"type": "rect","ratio": 1.433},"ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt","json": "./lib/演唱会.json"},"timeout":20},
 
-{"key":"csp_BBB","name":"套餐┃哔哩","type":3,"api":"csp_Bili","jar": "./alib/ougeou.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"./alib/哔哩套餐1.json"},
-{"key": "Bili","name": "套餐2┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/哔哩套餐2.json"},
-{"key": "演唱会","name": "演唱会┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/演唱会.json"}, 
-{"key": "戏曲","name": "戏曲┃合集","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/戏曲合集.json"},
-
 {
       "key": "bili_相声",
       "name": "相声 | 哔哩",
@@ -603,8 +598,11 @@
       },
       "timeout": 20
     },
-
-
+/*
+{"key":"csp_BBB","name":"套餐┃哔哩","type":3,"api":"csp_Bili","jar": "./alib/ougeou.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"./alib/哔哩套餐1.json"},
+{"key": "Bili","name": "套餐2┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/哔哩套餐2.json"},
+{"key": "演唱会","name": "演唱会┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/演唱会.json"}, 
+{"key": "戏曲","name": "戏曲┃合集","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/戏曲合集.json"},
 {"key": "合集","name": "合集┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/合集2125.json"}, 
 {"key": "MV","name": "歌曲┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/歌曲MV.json"},
 {"key": "美食","name": "美食┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/美食.json"},
@@ -613,7 +611,7 @@
 {"key": "小学课堂","name": "小学┃课堂","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/小学课堂.json"},
 {"key": "初中课堂","name": "初中┃课堂","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/初中课堂.json"},
 {"key": "高中课堂","name": "高中┃课堂","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/高中课堂.json"},
-
+*/
 {"key": "csp_XYQHiker_兔小贝","name":"《教育📚幼儿》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝.json"},
 
 {"key": "csp_XYQHiker_兔小贝2","name":"《教育📚启蒙》","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝2.json"},
