@@ -344,7 +344,6 @@
 		"filterable": 1,
 		"ext": "https://www.wwgz.cn/"
     },
-/*
     {
 		"key": "csp_Nkdy",
 		"name": "🏔️耐看┃影视",
@@ -390,7 +389,7 @@
 		"ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
 		"jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
-	*/
+
     {
 		"key": "hipy_js_易点看影院[自动]",
 		"name": "易点看影院",
