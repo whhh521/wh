@@ -445,7 +445,6 @@
 		"order_num": 0,
 		"ext": "./lib/js/星辰CT.js"
 	},
- /* 
 	{
 		"key": "hipy_js_烧火影视[优]",
 		"name": "烧火影视[优]",
@@ -493,7 +492,6 @@
 		"changeable": 1,
 		"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]
    }, 
-*/
    {
 		"key": "思古影视[V2]_js",
 		"name": "‍思古🔸影视",
@@ -505,7 +503,7 @@
 		"order_num": 0,
 		"ext": "./lib/js/思古影视[V2].js"
    },
-//{"key":"全网┃影视","name":"全网┃影视","type":3,"api":"csp_Quanwk","jar": "./alib/ougeou.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"全网┃影视","name":"全网┃影视","type":3,"api":"csp_Quanwk","jar": "./alib/ougeou.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQHiker_农民影视","name":"《农民🔹影视》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/农民影视.json"},
 
 {"key":"小苹果弹幕版","name":"《苹果🔹秒播》","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
@@ -576,7 +574,7 @@
       },
       "timeout": 20
     },
-/*
+
 {"key":"csp_BBB","name":"套餐┃哔哩","type":3,"api":"csp_Bili","jar": "./alib/ougeou.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"./alib/哔哩套餐1.json"},
 {"key": "Bili","name": "套餐2┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/哔哩套餐2.json"},
 {"key": "演唱会","name": "演唱会┃哔哩","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/演唱会.json"}, 
@@ -589,7 +587,7 @@
 {"key": "小学课堂","name": "小学┃课堂","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/小学课堂.json"},
 {"key": "初中课堂","name": "初中┃课堂","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/初中课堂.json"},
 {"key": "高中课堂","name": "高中┃课堂","type": 3,"api": "csp_Bili","jar": "./alib/ougeou.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./alib/高中课堂.json"},
-*/
+
 {"key": "csp_XYQHiker_兔小贝","name":"《教育📚幼儿》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝.json"},
 
 {"key": "csp_XYQHiker_兔小贝2","name":"《教育📚启蒙》","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝2.json"},
