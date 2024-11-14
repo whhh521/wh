@@ -402,7 +402,6 @@
 		"jar": "./alib/laohu1030.jar;md5;facdf4dc270faa9b1ad4febb82031de9",
 		"ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
 	},
-*/
     {
 		"key": "nfys",
 		"name": "奈飞┃影视",
@@ -414,6 +413,7 @@
 		"ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
 		"jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
+	*/
     {
 		"key": "hipy_js_易点看影院[自动]",
 		"name": "易点看影院",
@@ -480,7 +480,7 @@
 		"order_num": 0,
 		"ext": "./lib/js/烧火影视[优].js"
     },*/
-   {
+/*   {
 		"key": "豪华云资源",
 		"name": "豪华云｜采集",
 		"type": 1,
@@ -515,7 +515,7 @@
 		"searchable": 1,
 		"changeable": 1,
 		"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]
-   }, 
+   }, */
    {
 		"key": "思古影视[V2]_js",
 		"name": "‍思古🔸影视",
@@ -670,11 +670,6 @@
         {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
         
         {
-            "name": "-火狐-",
-            "type": 0,
-            "url": "https://hhjiexi.com/play/?url="
-        },
-        {
             "name": "线路1",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
@@ -701,8 +696,12 @@
                 ]
             }
         },
-		
-		{
+	 {
+            "name": "-火狐-",
+            "type": 0,
+            "url": "https://hhjiexi.com/play/?url="
+        },	
+	{
             "name": "-ik9-",
             "type": 0,
             "url": "https://yparse.ik9.cc/index.php?url="
