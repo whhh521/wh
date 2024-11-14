@@ -82,7 +82,7 @@
 
 {"key": "好趣网","name": "《好趣 | 直播》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "./lib/好趣网.js"},
 	
-   {	
+  /* {	
 	"key": "lf_live10_min", 
 	"name": "央视 | 直播",
         "type": 3,
@@ -92,7 +92,7 @@
         "changeable": 1,
         "api": "./lf_live10_min-output.js",
         "ext": "./lf_live.json"
-    },
+    },*/
     {
 		"key": "cctv",
 		"name": "央视 | 大全",
