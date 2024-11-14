@@ -445,17 +445,6 @@
 		"order_num": 0,
 		"ext": "./lib/js/星辰CT.js"
 	},
-	{
-		"key": "hipy_js_烧火影视[优]",
-		"name": "烧火影视[优]",
-		"type": 3,
-		"api": "./lib/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "./lib/js/烧火影视[优].js"
-    },
     {
 		"key": "豪华云资源",
 		"name": "豪华云｜采集",
