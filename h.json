@@ -1115,8 +1115,8 @@
 		  {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 		  {"category":4,"name":"mediacodec-hevc","value":"1"},
 		  {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-   "ads":["mozai.4gtv.tv","pv.vipwm.cc"],
-
+   "ads":["mozai.4gtv.tv","pv.vipwm.cc"]
+/*
   "lives": [
     {
       "name": "whhh",
@@ -1172,5 +1172,6 @@
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
     }
-  ]
+  ] 
+  */
   }   
