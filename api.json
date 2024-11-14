@@ -234,13 +234,12 @@
     },*/
     {
         "key": "糯米弹幕",
-        "name": "🍓糯米🔹弹幕",
+        "name": "🍓糯米🔹秒播",
         "type": 3,
         "api": "csp_Nmys",
         "jar": "./alib/xiaosaspider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
         "searchable": 1,
         "quickSearch": 1,  
-//	"ext": { "danmu": true },
         "filterable": 1
     },
     {
