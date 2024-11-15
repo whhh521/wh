@@ -91,7 +91,7 @@
         "filterable": 1,
         "changeable": 1,
         "api": "./lf_live10_min-output.js",
-        "ext": "./lf_live.json"
+        "ext": "./lf_live.txt"
     },
     {
 		"key": "cctv",
@@ -657,7 +657,7 @@
 	{"name": "嗅探9", "type": 0, "url": "https://jx.jsonplayer.com/player/?url=" },
 	{"name": "嗅探10", "type": 0, "url": "https://jx.bozrc.com:4433/player/?url=",  "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Mozilla/5.0" } } },
 	{"name": "嗅探11", "type": 0, "url": "https://jx.4kdv.com/?url=", "ext": { "header": { "User-Agent": "okhttp/4.1.0" }, "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩" ] }},
-
+*/
 	{"name": "XGJ专线", "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=", "flag": [ "BBA" ], "header": { "User-Agent": "Dalvik/2.1.0" }, "type": "1" },         
 	{"name": "XMY专线", "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=", "flag": [ "NBY" ], "header": { "User-Agent": "Dalvik/2.1.0" }, "type": "1" },         
 	{"name": "MX专线", "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=", "flag": [ "m78" ], "header": { "User-Agent": "Dalvik/2.1.0" }, "type": "1" },
@@ -691,7 +691,7 @@
 	{"name": "线路8","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 	{"name": "线路9","type": 0,"url": "https://jx.ppflv.com/?url="},
 	{"name": "线路10","type": 0,"url": "https://www.8090g.cn/?url="},
-*/	{"name": "线路13","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="}
+	{"name": "线路13","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="}
     ],
 	
     "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
