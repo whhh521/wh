@@ -91,7 +91,7 @@
         "filterable": 1,
         "changeable": 1,
         "api": "./lf_live10_min-output.js",
-        "ext": "./h.m3u"
+        "ext": "./lf_live.txt"
     },
     {
       "key": "直播转点播",
