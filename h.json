@@ -14,44 +14,19 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-{"key": "hipy_js_360影视[官]","name": "《叁陆🔹零源》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/360影视[官].js"},
-{"key":"优酷","name":"《尤库🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]优酷.js"},
-{"key":"腾讯","name":"《藤迅🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]腾讯VIP.js"},
-{"key":"爱奇艺","name":"《爱奇意🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]爱奇艺.js"},
-{"key":"芒果","name":"《忙菓🔹管源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]芒果2.js"},
-{"key":"搜狗","name":"《嗖枸🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]搜狗.js"},
-	{	
-	"key": "lf_live10_min", 
-	"name": "央视 | 直播",
-        "type": 3,
-        "searchable": 0,
-        "quickSearch": 1,
-        "filterable": 1,
-        "changeable": 1,
-        "api": "./lf_live10_min-output.js",
-        "ext": "./lf_live.json"
-	},
 	{
-        "key": "金牌弹幕",
-        "name": "🥇金牌🔹弹幕",
-        "type": 3,
-        "api": "csp_Jpys",
-        "jar": "./alib/wangpanspidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-        "danmu": true
-        }
+	"key": "金牌弹幕",
+	"name": "🥇金牌🔹弹幕",
+	"type": 3,
+	"api": "csp_Jpys",
+	"jar": "./alib/wangpanspidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": {
+	"danmu": true
+	}
 	},	
-	
-	//"spider": "https://gh.three2all.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69",
-{"key":"csp_Live2Vod_1","name":"💕电视直播","type":3,"api":"csp_Live2Vod","searchable":0,
-	"jar": "https://gh.three2all.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69",
-	"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider/pic/live.png"},
-{"key":"csp_Live2Vod_2","name":"💕电视直播(远程配置版)","type":3,"api":"csp_Live2Vod","searchable":0,
-	"jar": "https://gh.three2all.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69","ext":"./h.txt"},
 	
 	//"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040",
 {"key":"csp_Alllive","name":"📽️一直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,
