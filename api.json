@@ -94,6 +94,14 @@
         "ext": "./lf_live.txt"
     },
     {
+      "key": "直播转点播",
+      "name": "直播",
+      "type": 3,
+      "searchable": 0,
+      "api": "./bzhi.js",
+      "ext": "./bzhi.json"
+    },
+    {
 		"key": "cctv",
 		"name": "央视 | 大全",
 		"type": 3,
