@@ -102,6 +102,20 @@
       "ext": "./bzhi.json"
     },
     {
+      "key": "lf_js_lf_live",
+      "name": "电视 | 直播",
+      "type": 3,
+      "api": "./czhi.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./czhi.txt"
+    },
+    {
 		"key": "cctv",
 		"name": "央视 | 大全",
 		"type": 3,
