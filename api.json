@@ -212,6 +212,37 @@
         "quickSearch": 1,
         "filterable": 1
     },
+    {
+   	 "key": "机器人",
+	 "name": "🤖机器┃纯净",
+  	 "type": 3,
+  	 "api": "csp_Ikanbot",
+    	 "jar": "./alib/moyu配置中心.jar",
+    	 "searchable": 1,
+    	 "quickSearch": 1,
+    	 "filterable": 1
+    },
+    {
+    	"key": "五五影视",
+    	"name": "⑤⑤五五┃无广",
+    	"type": 3,
+   	"api": "csp_XBPQ",
+    	"jar": "./alib/moyu配置中心.jar",
+   	"searchable": 1,
+   	"quickSearch": 1,
+    	"filterable": 1,
+    	"ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=55"
+   },
+   {
+    	"key": "饺子影视",
+    	"name": "🥟饺子┃外剧",
+    	"type": 3,
+    	"api": "csp_Jiaozi",
+    	"jar": "./alib/moyu配置中心.jar",
+    	"searchable": 1,
+    	"quickSearch": 1,
+    	"filterable": 1
+    },
  /*
     {
         "key": "金牌弹幕",
