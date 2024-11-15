@@ -92,7 +92,7 @@
         "changeable": 1,
 	"jar": "./alib/tiantianspider.jar",
         "api": "./lf_live10_min-output.js",
-        "ext": "./lf_live.json"
+        "ext": "./lf_live.txt"
     },
     {
 		"key": "cctv",
