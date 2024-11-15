@@ -2,7 +2,7 @@
 {
  "wallpaper": "https://深色壁纸.xxooo.cf/",
  "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;e0752459e29733473c62bbdf280b3bb1",
-  "spider": "./lib/tvkj.jar",		
+  		
 "sites":[
 
 	{
@@ -15,12 +15,12 @@
       "filterable": 1,
     },
 
-{"key": "hipy_js_360影视[官]","name": "《叁陆🔹零源》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/360影视[官].js"},
-{"key":"优酷","name":"《尤库🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/[官]优酷.js"},
-{"key":"腾讯","name":"《藤迅🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/[官]腾讯VIP.js"},
-{"key":"爱奇艺","name":"《爱奇意🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/[官]爱奇艺.js"},
-{"key":"芒果","name":"《忙菓🔹管源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/[官]芒果2.js"},
-{"key":"搜狗","name":"《嗖枸🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/[官]搜狗.js"},
+{"key": "hipy_js_360影视[官]","name": "《叁陆🔹零源》","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/360影视[官].js"},
+{"key":"优酷","name":"《尤库🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]优酷.js"},
+{"key":"腾讯","name":"《藤迅🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]腾讯VIP.js"},
+{"key":"爱奇艺","name":"《爱奇意🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]爱奇艺.js"},
+{"key":"芒果","name":"《忙菓🔹管源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]芒果2.js"},
+{"key":"搜狗","name":"《嗖枸🔹官源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","jar": "./lib/tvkj.jar","ext":"./lib/[官]搜狗.js"},
 	{	
 	"key": "lf_live10_min", 
 	"name": "央视 | 直播",
