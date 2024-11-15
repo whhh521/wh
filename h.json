@@ -142,7 +142,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-	{
+    {
       "key": "木星",
       "name": "🌞木星┃多线",
       "type": 3,
@@ -470,7 +470,7 @@
                 }
             }
         },
-		{
+	{
             "name": "线路2",
             "type": 0,
             "url": "https://jx.quankan.app/?url=",
@@ -479,8 +479,8 @@
                     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
                 }
             }
-    },
-		{
+        },
+	{
             "name": "线路4",
             "type": 0,
             "url": "https://jx.aidouer.net/?url=",
@@ -491,7 +491,7 @@
                 }
             }
 	},
-		{
+	{
             "name": "线路5",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
@@ -562,19 +562,17 @@
 	],
   "logo":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/NanFeng.gif",
   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
-   "rules":[{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com",
-									"cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv",
-									"youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
-			{"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
-			{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]},
-			{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-			{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
-			{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
-			{"name":"新视觉嗅探","hosts":["muzhi-video.bj.bcebos.com"],"regex":["202403/"]},
-			{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
-			{"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
-			{"name":"毛驴","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]},
-			{"name":"czzy","hosts":["10086.cn"],"regex":["/storageWeb/servlet/downloadServlet"]},
+   "rules":[{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
+	    {"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
+	    {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]},
+	    {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+	    {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+	    {"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+	    {"name":"新视觉嗅探","hosts":["muzhi-video.bj.bcebos.com"],"regex":["202403/"]},
+	    {"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
+	    {"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
+	    {"name":"毛驴","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]},
+	    {"name":"czzy","hosts":["10086.cn"],"regex":["/storageWeb/servlet/downloadServlet"]},
 			{
 			  "name": "kk",
 			  "hosts": [
