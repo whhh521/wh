@@ -2,7 +2,7 @@
 {
  "wallpaper": "https://深色壁纸.xxooo.cf/",
  "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;e0752459e29733473c62bbdf280b3bb1",
-		
+  "spider": "./lib/tvkj.jar",		
 "sites":[
 
 	{
