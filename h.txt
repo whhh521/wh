@@ -2366,19 +2366,16 @@ dy影视,#genre#
 粤语电影,https://live.metshop.top/douyu/6566671
 午夜故事,https://live.metshop.top/douyu/8722254
 贝爷求生,https://live.metshop.top/douyu/454867
+喜剧影院,https://live.metshop.top/douyu/428402
+明星经典,https://live.metshop.top/douyu/12143022
 周星驰,https://live.metshop.top/douyu/508118
 周星驰1,https://live.metshop.top/douyu/112402
 成  龙,https://live.metshop.top/douyu/3379942
-明星经典,https://live.metshop.top/douyu/12143022
-喜剧电影,https://live.metshop.top/douyu/428402
 刘德华,https://live.metshop.top/douyu/2516864
 林正英1,https://live.metshop.top/douyu/218859
 林正英2,https://live.metshop.top/douyu/7356023
 
 解说_片荒,http://jiaojirentv.top/2020/dy.php?id=4258555
-
-
-
 
 
 
@@ -2419,7 +2416,7 @@ dy影视,#genre#
 午夜故事,http://cfss.cc/cdn/dy/8722254.flv
 贝爷求生,http://cfss.cc/cdn/dy/454867.flv
 明星经典,http://cfss.cc/cdn/dy/12143022.flv
-喜剧电影,http://cfss.cc/cdn/dy/428402.flv
+喜剧影院,http://cfss.cc/cdn/dy/428402.flv
 周星驰,http://cfss.cc/cdn/dy/508118.flv
 周星驰1,http://cfss.cc/cdn/dy/112402.flv
 成  龙,http://cfss.cc/cdn/dy/3379942.flv
@@ -2465,7 +2462,7 @@ dy影视,#genre#
 午夜故事,http://111.67.193.2:35455/douyu/8722254
 贝爷求生,http://111.67.193.2:35455/douyu/454867
 明星经典,http://111.67.193.2:35455/douyu/12143022
-喜剧电影,http://111.67.193.2:35455/douyu/428402
+喜剧影院,http://111.67.193.2:35455/douyu/428402
 周星驰,http://111.67.193.2:35455/douyu/508118
 周星驰1,http://111.67.193.2:35455/douyu/112402
 成  龙,http://111.67.193.2:35455/douyu/3379942
@@ -2512,7 +2509,7 @@ dy影视,#genre#
 午夜故事,http://159.75.85.63:35455/douyu/8722254
 贝爷求生,http://159.75.85.63:35455/douyu/454867
 明星经典,http://159.75.85.63:35455/douyu/12143022
-喜剧电影,http://159.75.85.63:35455/douyu/428402
+喜剧影院,http://159.75.85.63:35455/douyu/428402
 周星驰,http://159.75.85.63:35455/douyu/508118
 周星驰1,http://159.75.85.63:35455/douyu/112402
 成  龙,http://159.75.85.63:35455/douyu/3379942
