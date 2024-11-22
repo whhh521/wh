@@ -2367,11 +2367,20 @@ dy影视,#genre#
 午夜故事,https://live.metshop.top/douyu/8722254
 贝爷求生,https://live.metshop.top/douyu/454867
 周星驰,https://live.metshop.top/douyu/508118
+周星驰1,https://live.metshop.top/douyu/112402
+成  龙,https://live.metshop.top/douyu/3379942
+明星经典,https://live.metshop.top/douyu/12143022
+喜剧电影,https://live.metshop.top/douyu/428402
 刘德华,https://live.metshop.top/douyu/2516864
 林正英1,https://live.metshop.top/douyu/218859
 林正英2,https://live.metshop.top/douyu/7356023
 
 解说_片荒,http://jiaojirentv.top/2020/dy.php?id=4258555
+
+
+
+
+
 
 //douyu2
 豆瓣高分,http://cfss.cc/cdn/dy/8770422.flv
@@ -2409,10 +2418,15 @@ dy影视,#genre#
 粤语电影,http://cfss.cc/cdn/dy/6566671.flv
 午夜故事,http://cfss.cc/cdn/dy/8722254.flv
 贝爷求生,http://cfss.cc/cdn/dy/454867.flv
+明星经典,http://cfss.cc/cdn/dy/12143022.flv
+喜剧电影,http://cfss.cc/cdn/dy/428402.flv
 周星驰,http://cfss.cc/cdn/dy/508118.flv
+周星驰1,http://cfss.cc/cdn/dy/112402.flv
+成  龙,http://cfss.cc/cdn/dy/3379942.flv
 刘德华,http://cfss.cc/cdn/dy/2516864.flv
 林正英1,http://cfss.cc/cdn/dy/218859.flv
 林正英2,http://cfss.cc/cdn/dy/7356023.flv
+
 
 //douyu3
 豆瓣高分,http://111.67.193.2:35455/douyu/8770422
@@ -2450,10 +2464,16 @@ dy影视,#genre#
 粤语电影,http://111.67.193.2:35455/douyu/6566671
 午夜故事,http://111.67.193.2:35455/douyu/8722254
 贝爷求生,http://111.67.193.2:35455/douyu/454867
+明星经典,http://111.67.193.2:35455/douyu/12143022
+喜剧电影,http://111.67.193.2:35455/douyu/428402
 周星驰,http://111.67.193.2:35455/douyu/508118
+周星驰1,http://111.67.193.2:35455/douyu/112402
+成  龙,http://111.67.193.2:35455/douyu/3379942
 刘德华,http://111.67.193.2:35455/douyu/2516864
 林正英1,http://111.67.193.2:35455/douyu/218859
 林正英2,http://111.67.193.2:35455/douyu/7356023
+
+
 
 //douyu4
 豆瓣高分,http://159.75.85.63:35455/douyu/8770422
@@ -2491,7 +2511,11 @@ dy影视,#genre#
 粤语电影,http://159.75.85.63:35455/douyu/6566671
 午夜故事,http://159.75.85.63:35455/douyu/8722254
 贝爷求生,http://159.75.85.63:35455/douyu/454867
+明星经典,http://159.75.85.63:35455/douyu/12143022
+喜剧电影,http://159.75.85.63:35455/douyu/428402
 周星驰,http://159.75.85.63:35455/douyu/508118
+周星驰1,http://159.75.85.63:35455/douyu/112402
+成  龙,http://159.75.85.63:35455/douyu/3379942
 刘德华,http://159.75.85.63:35455/douyu/2516864
 林正英1,http://159.75.85.63:35455/douyu/218859
 林正英2,http://159.75.85.63:35455/douyu/7356023
@@ -2540,36 +2564,35 @@ dy影视,#genre#
 
 
 音乐台,#genre#
-
-白噪音1,http://zblu.exvugx.cn/bilibili/30788503id
-白噪音2,http://zblu.exvugx.cn/bilibili/1870883645id
+白噪音1,https://www.goodiptv.club/bilibili/30788503id#http://zblu.exvugx.cn/bilibili/30788503id
+白噪音2,https://www.goodiptv.club/bilibili/1870883645id#http://zblu.exvugx.cn/bilibili/1870883645id
 白噪音3,http://111.67.193.2:35455/huya/21241811
 轻音乐,http://61.240.206.3/live-bvc/276764/live_2565439_9900945/index.m3u8
 宫崎骏,http://221.15.71.3/live-bvc/664465/live_8452447_9815264/index.m3u8
-动漫音乐,http://zblu.exvugx.cn/bilibili/2225203id
-MV轮播,http://zblu.exvugx.cn/bilibili/1773507853id
-演唱会,http://zblu.exvugx.cn/douyu/11880223
+动漫音乐,https://www.goodiptv.club/bilibili/2225203id#http://zblu.exvugx.cn/bilibili/2225203id
+MV轮播,https://www.goodiptv.club/bilibili/1773507853id#http://zblu.exvugx.cn/bilibili/1773507853id
+演唱会,https://www.goodiptv.club/douyu/11880223#http://zblu.exvugx.cn/douyu/11880223
 电台粤播1,http://www.52sw.top:678/play/douyin.php?id=746822069525
 电台粤播2,http://www.52sw.top:678/play/douyin.php?id=610441607378
 电台粤播3,http://www.52sw.top:678/play/douyin.php?id=766255078143
 华语金曲500,http://ls.qingting.fm/live/3412131.m3u8
-周杰伦音乐,http://zblu.exvugx.cn/bilibili/27660328id
+周杰伦音乐,https://www.goodiptv.club/bilibili/27660328id
 周杰伦无损音乐,http://61.240.206.17/live-bvc/664465/live_642804459_23717540_2500/index.m3u8
-流行音乐,http://zblu.exvugx.cn/bilibili/31224575id
+流行音乐,https://www.goodiptv.club/bilibili/31224575id
 好音质点歌台,http://111.67.193.2:35455/huya/15590571
 经典点歌台,http://111.67.193.2:35455/huya/20616876
 聆听点歌台,http://111.67.193.2:35455/huya/16802752	
 阿七点歌台,https://www.goodiptv.club/douyu/3186217
 熊猫点歌台,https://www.goodiptv.club/douyu/3870925
 音乐台长,https://www.goodiptv.club/douyu/9629943
-怀旧经典,http://zblu.exvugx.cn/bilibili/30281885id
-老歌经典,http://zblu.exvugx.cn/bilibili/25182760id
-8090经典,http://zblu.exvugx.cn/bilibili/1769479946id
-怀旧音乐,http://zblu.exvugx.cn/bilibili/31951727id
-随机音乐,http://zblu.exvugx.cn/bilibili/26521528id
+怀旧经典,https://www.goodiptv.club/bilibili/30281885id
+老歌经典,https://www.goodiptv.club/bilibili/25182760id
+8090经典,https://www.goodiptv.club/bilibili/1769479946id
+怀旧音乐,https://www.goodiptv.club/bilibili/31951727id
+随机音乐,https://www.goodiptv.club/bilibili/26521528id
 古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
 金典歌曲轮播,http://157.148.134.6/live-bvc/682702/live_1749710516_4875726_2500/index.m3u8
-音乐现场,http://zblu.exvugx.cn/rtp/239.3.1.70:4120
+音乐现场,https://www.goodiptv.club/rtp/239.3.1.70:4120
 山歌台高清,http://1b6467f415.iok.la:9931/tsfile/live/1005_1.m3u8
 mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
 音乐现场1,http://111.67.193.2.35455/rtp/239.3.1.70:4120
@@ -2580,6 +2603,7 @@ mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
 抖音怀旧经典,http://www.52sw.top:678/play/douyin.php?id=151120163983
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://182.138.185.96:6666/udp/239.93.0.198:9044
+
 
 
 
